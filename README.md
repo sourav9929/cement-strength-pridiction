@@ -1,0 +1,2 @@
+
+This project aims to predict the price of cement using machine learning techniques based on various input features. Accurate predictions can help stakeholders in the construction and building industries to plan purchases and manage costs effectively
