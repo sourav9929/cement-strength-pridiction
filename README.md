@@ -1,2 +1,1 @@
-
-This project aims to predict the price of cement using machine learning techniques based on various input features. Accurate predictions can help stakeholders in the construction and building industries to plan purchases and manage costs effectively
+This project aims to predict the compressive strength of cement based on its composition and curing time using machine learning techniques. Cement strength is a critical property in construction, and accurately predicting it can help improve quality control and reduce costs in manufacturing and construction processes.
